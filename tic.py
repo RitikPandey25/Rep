@@ -181,14 +181,14 @@ if p2==2:
 	tl3.click()
 	ll()
 	tl.click()
-	if p5==2:
-		tl.click()
-		tl6.click()
-		ll()
-	elif p6==2:
-		tl.click()
-		tl5.click()
-		ll()
+	#if p5==2:
+		#tl.click()
+	tl6.click()
+	ll()
+	#elif p6==2:
+	tl.click()
+	tl5.click()
+	ll()
 
 
 elif p4==2:
@@ -199,14 +199,14 @@ elif p4==2:
 	tl6.click()
 	ll()
 	tl.click()
-	if p7==2:
-		tl.click()
-		tl3.click()
-		ll()
-	elif p3==2:
-		tl.click()
-		tl7.click()
-		ll()
+	#if p7==2:
+		#tl.click()
+	tl3.click()
+	ll()
+	#elif p3==2:
+	tl.click()
+	tl7.click()
+	ll()
 
 elif p5==2:
 	tl.click()
@@ -216,14 +216,14 @@ elif p5==2:
 	tl6.click()
 	ll()
 	tl.click()
-	if p7==2:
-		tl.click()
-		tl3.click()
-		ll()
-	elif p3==2:
-		tl.click()
-		tl7.click()
-		ll()
+	#if p7==2:
+		#tl.click()
+	tl3.click()
+	ll()
+	#elif p3==2:
+	tl.click()
+	tl7.click()
+	ll()
 
 elif p7==2:
 	tl.click()
@@ -232,14 +232,14 @@ elif p7==2:
 	tl.click()
 	tl3.click()
 	ll()
-	if p5==2:
-		tl.click()
-		tl6.click()
-		ll()
-	elif p6==2:
-		tl.click()
-		tl5.click()
-		ll()
+	#if p5==2:
+	tl.click()
+	tl6.click()
+	ll()
+	#elif p6==2:
+	tl.click()
+	tl5.click()
+	ll()
 
 
 #tl.click()
